@@ -8,7 +8,7 @@ html,body{
     align-items : center;
     width: 100vw;
     height : 100vh;
-    background: linear-gradient(top,  #ffffff 0%, #00d912 56%);
+    background-color: rgb(194, 194, 251);
     
     
 }
@@ -18,7 +18,7 @@ html,body{
    border-color: blue;
    border-radius: 10px;
    box-shadow: 63px 43px 53px rgba(18, 60, 199, 0.5)  ; 
-   background-color: grey;
+   background-color: rgb(19, 172, 124);
    min-width: 30%;
    min-height: 20%;
    display:flex;
